@@ -1,4 +1,4 @@
-### I'm Leonardo Lesinhovski, firmware developer of embedded devices.
+### I'm Leonardo Lara, embedded systems developer.
 
 <!--
 **Lesinhovski/Lesinhovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
